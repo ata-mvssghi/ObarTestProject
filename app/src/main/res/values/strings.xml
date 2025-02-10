@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Obar</string>
+    <string name="name">نام</string>
+    <string name="lastName">نام خانوادگی</string>
+    <string name="name_lastname">نام و نام خانوادگی</string>
+    <string name="phone_number">تلفن همراه</string>
+    <string name="fill_info">لطفا اطلاعات ورود خود را وارد کنید</string>
+    <string name="coordinate_mobile">تلفن ثابت</string>
+    <string name="address">ادرس دقیق</string>
+    <string name="user_address">ادرس</string>
+    <string name="next_Step">مرحله بعد</string>
+    <string name="female">خانم</string>
+    <string name="male">اقا</string>
+    <string name="gender">جنسیت</string>
+    <string name="invalid_form_filling">لطفا همگی اطلاعات را به درستی وارد کنید</string>
+    <string name="fetching_info">در حال دریافت اطلاعات</string>
+    <string name="sending_info">در حال اطلاعات به سرور</string>
+</resources>
